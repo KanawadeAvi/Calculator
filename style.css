@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+
+
+input{
+
+    font-size: 145%;
+    width: auto;
+    border: 8px;
+    border-radius: 15px;
+
+}
+button{
+     color: #000;
+    font-size: 20px;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(207, 197, 207);
+    
+
+}
+h1{
+    color: rgb(206, 5, 5);
+}
